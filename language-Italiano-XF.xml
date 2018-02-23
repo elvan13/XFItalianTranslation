@@ -5714,7 +5714,7 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_email_cannot_be_changed_while_your_account_does_not_have_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email non può essere cambiata dal momento che il tuo account non ha una password.]]></phrase>
   <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo e-mail non può essere confermato. Ti preghiamo di richiedere una nuova conferma email e segui le istruzioni.]]></phrase>
   <phrase title="your_email_has_been_confirmed_and_your_account_is_now_fully_active_again" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stata confermata , il tuo profilo è nuovamente attivo.]]></phrase>
-  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stat confermata correttamente e la registrazione è completata.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stata confermata correttamente e la registrazione è completata.]]></phrase>
   <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stata confermata correttamente. La registrazione deve essere approvata da un amministratore. Riceverai una email il prima possibile.]]></phrase>
   <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il tuo indirizzo email al momento non può essere sostituito .]]></phrase>
   <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Le tue notifiche email sono state aggiornate.]]></phrase>
@@ -5726,7 +5726,7 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_import_is_now_complete_and_necessary_caches_have_been_rebuilt" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Your import is now complete and the necessary caches have been rebuilt.]]></phrase>
   <phrase title="your_ip_address_has_been_banned" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo indirizzo IP è stato bannato.]]></phrase>
   <phrase title="your_message_has_been_posted" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Your message has been posted.]]></phrase>
-  <phrase title="your_message_has_been_sent" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Il tuo messaggio è stato eliminato.]]></phrase>
+  <phrase title="your_message_has_been_sent" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Il tuo messaggio è stato inviato.]]></phrase>
   <phrase title="your_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo nome utente]]></phrase>
   <phrase title="your_name_or_email_address" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo nome utente o la tua email]]></phrase>
   <phrase title="your_news_feed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo flusso delle novità]]></phrase>
